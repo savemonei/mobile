@@ -70,6 +70,21 @@ SaveMonei is built for people who want a **simple expense tracker** and **budget
 
 ## Screenshots
 
+<p align="center">
+  <img src="./docs/screenshots/dashboard.png" alt="SaveMonei Dashboard" width="400">
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/transactions.png" alt="SaveMonei Transactions" width="400">
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/documents.png" alt="SaveMonei Documents" width="400">
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/subscriptions.png" alt="SaveMonei Subscriptions" width="400">
+</p>
 
 ---
 
